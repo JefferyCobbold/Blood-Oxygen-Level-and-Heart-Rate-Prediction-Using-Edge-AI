@@ -1,3 +1,4 @@
 ﻿# Blood-Oxygen-Level-and-Heart-Rate-Prediction-Using-Edge-AI
 
-https://github.com/JefferyCobbold/Blood-Oxygen-Level-and-Heart-Rate-Prediction-Using-Edge-AI/blob/main/Loss%20And%20Accuracy%20Curve.png
+
+
